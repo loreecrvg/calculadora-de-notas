@@ -19,6 +19,13 @@ body {
   margin: 0 px;
 }
 
+.footer {
+  position: absolute;
+  color: black;
+  bottom: 50px;
+  width: 100%;
+}
+
 .page-subtitle {
   color: #000000
   margin-top: 15px;
